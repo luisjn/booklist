@@ -1,3 +1,7 @@
+# booklist
+
+Este proyecto fue creado para poner en practica los conceptos de React Context y Hooks siguiendo el tutotial [React Context & Hooks Tutorial](https://youtu.be/6RhOzQciVwI).
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
